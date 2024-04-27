@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo Python e Análise de dados na DSA **Análise de dados via Data Science Academy**
 
-- 📫 Você me acha no google através: [https://www.google.com/search?q=samuel+medeiros+ventura&oq=samuel+medeiros+ventura+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5MThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=samuel+medeiros+ventura&oq=samuel+medeiros+ventura+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM5MThqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8)
+- 📫 Você me acha no google através: https://bit.ly/3UiRVaR
 
 - 💬 Pergunte sobre: **Engenharia de produção, Análise de Dados, Python**
 
