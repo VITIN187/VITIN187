@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , eu sou Samuel</h1>
+<h1 align="center">Oi 👋 , eu sou Samuel </h1>
 <h3 align="center">Apaixonado por industria 4.0, engenharia de produção</h3>
 
 - 🔭Atualmente estou trabalhando com análise de dados com python [estudo](https://www.datascienceacademy.com.br/)
